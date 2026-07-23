@@ -21,7 +21,6 @@
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/scopedcss/bundle/personal-portfolio.styles.css
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/scopedcss/projectbundle/personal-portfolio.bundle.scp.css
-/Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/compressed/6v1y4j2qkq-{0}-b9sayid5wm-b9sayid5wm.gz
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/compressed/a59vzxssa1-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/compressed/268utnwk4n-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/compressed/wyeyyzn4gi-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,3 +94,5 @@
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/personal-portfolio.pdb
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/personal-portfolio.genruntimeconfig.cache
 /Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/ref/personal-portfolio.dll
+/Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/personal-portfolio.sourcelink.json
+/Users/meltemergul/personal-portfolio/personal-portfolio/obj/Debug/net10.0/compressed/6v1y4j2qkq-{0}-wzmz3z96dw-wzmz3z96dw.gz
